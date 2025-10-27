@@ -1,5 +1,4 @@
-# Welcome to the Club! I'm Shreya 👋
-
+$${\color{magenta}\textbf{\Large Welcome to the Club! I am Shreya and you are?}}$$
 - 👩🏽‍💻 I’m currently a junior at [Purdue University](https://www.cs.purdue.edu/) studying Computer Science with a focus on Security and Systems.
 
 ## 📊 GitHub Stats:
