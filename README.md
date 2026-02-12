@@ -1,6 +1,3 @@
-$${\color{magenta}\textbf{\Large Welcome to the Club! I am Shreya and you are?}}$$
-- 👩🏽‍💻 I’m currently a junior at [Purdue University](https://www.cs.purdue.edu/) studying Computer Science with a focus on Security and Systems.
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shreyav1231&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shreyav1231&theme=ambient_gradient&hide_border=false)<br/>
