@@ -1,7 +1,6 @@
 ## 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyav1231)](https://git.io/streak-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=Shreyav1231&theme=ambient_gradient&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-venkatraman/) 
